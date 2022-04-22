@@ -1,0 +1,1 @@
+# Storing the log message directly to the mongo database
